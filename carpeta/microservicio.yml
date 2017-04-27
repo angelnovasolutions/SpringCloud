@@ -1,0 +1,10 @@
+server:
+  port: 0
+nombre: Angel
+apellidop: Martinez
+apellidom: Leon
+edad: 31
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9091/eureka
